@@ -6,8 +6,9 @@ Work done by:
 
 - Daniel Bolaños Martínez
 
-- José María Borrás Serrano
+- Fernando de la Hoz Moreno
 
 ## Bibliography
 
-- S. Avidan & A. Shamir (2007). Seam Carving for Content-Aware Image Resizing. ACM Transactions on Graphics (ACM T GRAPHIC).
+- https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+- https://lucene.apache.org/core/downloads.html
